@@ -1,0 +1,20 @@
+{
+  "name": "ca-webgl-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "nedb": "^1.8.0",
+    "open": "^8.2.0",
+    "sound-play": "^1.1.0"
+  }
+}
